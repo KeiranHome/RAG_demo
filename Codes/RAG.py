@@ -161,7 +161,7 @@ class RAGEngine:
         return answer
 
 if __name__ == "__main__":
-    folder = f"D:\资料\大模型LLM面试合集\Rag_Demo\Datas\Output"  # 修改为你的文件夹路径
+    folder = "../Datas/Output"  # 修改为你的文件夹路径
     rag_engine = RAGEngine(folder)
 
     print("欢迎使用RAG问答系统，输入exit退出")
