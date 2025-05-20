@@ -1,4 +1,5 @@
-首先先执行faiss
+首先先执行[RAG-faiss.py](Codes/RAG-faiss.py)文件，进行向量的存储
+再执行[RAG.py](Codes/RAG.py)文件，进行整个RAG对话
 
 
 以下是我们对该RAG项目进行拆解的步骤，加深对RAG项目整体流程的理解。
