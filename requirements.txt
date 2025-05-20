@@ -1,6 +1,7 @@
 markdown
-openai
 numpy
-json
 faiss-cpu
 dotenv
+pymupdf
+openai
+beautifulsoup4
