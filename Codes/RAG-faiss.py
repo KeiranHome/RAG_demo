@@ -178,8 +178,8 @@ def batch_process_files(input_dir: str, output_dir: str, file_extensions: List[s
 
 def main():
     # 配置参数
-    input_dir = f"D:\资料\大模型LLM面试合集\Rag_Demo\Datas\output_files_v4"  # 输入目录，包含PDF和MD文件
-    output_dir = f"D:\资料\大模型LLM面试合集\Rag_Demo\Datas\Output"  # 输出目录
+    input_dir = "../Datas/output_files_v4"  # 输入目录，包含PDF和MD文件
+    output_dir = "../Datas/Output"  # 输出目录
     
     # 批量处理文件
     batch_process_files(input_dir, output_dir)
