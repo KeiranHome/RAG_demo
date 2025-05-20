@@ -1,0 +1,6 @@
+markdown
+openai
+numpy
+json
+faiss-cpu
+dotenv
